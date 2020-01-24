@@ -1,0 +1,37 @@
+*{
+    box-sizing:border-box;s
+}
+
+body{
+  display: flex;
+  flex-direction: column;
+  width:100vw;
+  height:100vh;
+  padding:0;
+  margin:0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header,article,footer{
+    width:100%;
+    padding:10px;
+}
+
+header{
+    background-color:#f53f85;
+    margin:0;
+    border-radius:0;
+}
+
+header .accent{
+    color:white;
+}
+
+article{
+    flex-grow:1
+}
+
+footer{
+    color:white;
+    background-color:#3f454d;
+}

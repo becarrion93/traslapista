@@ -1,2 +1,0 @@
-# traslapista
-Tras la pista
