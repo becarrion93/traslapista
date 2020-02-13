@@ -18,13 +18,9 @@ header,article,footer{
 }
 
 header{
-    background-color:#f53f85;
+    color:#f53f85;
     margin:0;
     border-radius:0;
-}
-
-header .accent{
-    color:white;
 }
 
 article{
